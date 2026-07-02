@@ -1,10 +1,20 @@
 # Assets
 
-This folder contains media files used in the AI-in-TVET Microcredential project.
+This folder contains media files for the AI-in-TVET Microcredential.
 
-## Subfolders
+## What to Add Here
 
-- images: screenshots, diagrams, and visual learning materials
-- audio: audio files for learning activities
-- videos: tutorial or workshop videos
-- icons: icons and badge graphics
+- Screenshots of GitHub setup
+- Screenshots of VS Code workflow
+- BMAD workflow diagram
+- Online/offline workflow diagram
+- Badge icon
+- Course images
+- Audio or video files if needed
+
+## Example Future Files
+
+- images/github-repository-screenshot.png
+- images/vscode-folder-structure.png
+- images/bmad-workflow-diagram.png
+- icons/microcredential-badge.png
