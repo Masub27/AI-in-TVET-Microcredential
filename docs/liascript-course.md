@@ -1,40 +1,83 @@
 <!--
-author: AI-in-TVET Microcredential Project
-email: masub.makhdoom@ovgu.de
-version: 1.0.0
+
+author:   TVET
+email:    masub.makhdoom@ovgu.de
+date:     02/07/2026
+version:  30.0.0
 language: en
-narrator: US English Female
-comment: This LiaScript course introduces the AI-in-TVET Microcredential for online and offline teaching workflow creation using GitHub, VS Code, AI support, LiaScript, and the BMAD Method.
-logo: ../assets/icons/microcredential-badge.png
+narrator: EU German
+
+repository: https://github.com/Masub27/AI-in-TVET-Microcredential
+
+logo:     ../assets/icons/microcredential-badge.png
+
+comment:  This LiaScript course supports the AI-in-TVET Microcredential.
+          It guides learners through the creation of online and offline
+          teaching workflows using GitHub, VS Code, LiaScript, AI support,
+          and the BMAD Method.
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+          https://felixhao28.github.io/JSCPP/dist/JSCPP.es5.min.js
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+link:     https://raw.githubusercontent.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/refs/heads/main/VorlageUN.css
+
+link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+
+import:   https://raw.githubusercontent.com/liaTemplates/ABCjs/main/README.md
+
+link:     https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs
+          https://fonts.googleapis.com/css2?family=Noto+Sans+Ogham
+
+font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
+
 -->
 
 # AI-in-TVET Microcredential
 
-> AI-supported online and offline teaching workflow creation in TVET using GitHub, VS Code, GitHub Copilot, LiaScript, and the BMAD Method.
+## Creating Online and Offline Teaching Workflows with AI and the BMAD Method
+
+--{{0}}--
+Welcome to the AI-in-TVET Microcredential course. In this course, you will learn how to create a structured teaching workflow using GitHub, VS Code, LiaScript, AI support, and the BMAD Method.
+
+> **Main idea:**  
+> This micro-credential helps learners create AI-supported educational materials that can be used online and offline.
 
 ---
 
-## Course Overview
+## Course Information
 
-This micro-credential introduces learners to AI-supported teaching workflow creation in Technical and Vocational Education and Training.
+| Item | Description |
+|---|---|
+| Course title | AI-in-TVET Microcredential |
+| Main focus | AI-supported teaching workflow creation |
+| Field | Technical and Vocational Education and Training |
+| Duration | 4 weeks |
+| Estimated workload | 20–30 hours |
+| Mode | Online and offline |
+| Level | Beginner to intermediate |
+| Final output | Complete teaching workflow package |
+| Tools | GitHub, VS Code, GitHub Copilot or AI support, LiaScript, BMAD Method |
 
-The course focuses on creating, organizing, and publishing educational materials for online and offline use.
+--{{0}}--
+This course is practical. You will not only read about micro-credentials. You will create a real project folder, write learning materials, design tasks, prepare assessment, and publish an online LiaScript version.
 
-### Tools Used
+---
 
-- GitHub
-- VS Code
-- GitHub Copilot or AI support
-- LiaScript
-- BMAD Method
+## What You Will Create
 
-### Target Group
+By the end of this course, you will create:
 
-- TVET students
-- Teachers
-- Trainers
-- Educational technology beginners
-- Workshop participants
+- A GitHub repository
+- A structured course folder
+- Learning modules
+- Learner tasks
+- Assessment strategy
+- Quality checklists
+- Certificate or badge template
+- Online LiaScript course page
+- Offline course package
 
 ---
 
@@ -43,138 +86,233 @@ The course focuses on creating, organizing, and publishing educational materials
 After completing this micro-credential, learners will be able to:
 
 1. Explain the concept of micro-credentials.
-2. Describe UNESCO and European principles of micro-credentials.
+2. Describe basic UNESCO and European micro-credential principles.
 3. Set up a GitHub and VS Code teaching workflow.
 4. Apply the BMAD Method for course design.
-5. Use AI support to create and improve teaching materials.
-6. Prepare online and offline learning materials.
-7. Submit a final teaching workflow project.
+5. Use AI support to create and improve learning materials.
+6. Create online and offline teaching resources.
+7. Prepare assessment tasks and evidence requirements.
+8. Submit a final AI-supported teaching workflow project.
 
 ---
+
+## Workshop Structure
+
+| Phase | Topic | Output |
+|---|---|---|
+| Phase 1 | Understand micro-credentials | Definition and EU elements |
+| Phase 2 | Set up GitHub and VS Code | Project repository and folder |
+| Phase 3 | Apply BMAD Method | Course design plan |
+| Phase 4 | Use AI for content creation | AI-supported learning activity |
+| Phase 5 | Build online/offline package | Course package |
+| Phase 6 | Create LiaScript course | Online course page |
+| Phase 7 | Final submission | Complete micro-credential project |
+
+---
+
+# Phase 1: Understanding Micro-Credentials
+
+--{{0}}--
+Before creating a micro-credential, we need to understand what a micro-credential is and what information it should include.
 
 ## What Is a Micro-Credential?
 
 A micro-credential is a short, focused, and assessed learning experience.
 
-It records what a learner knows, understands, or can do in a specific area.
+It records what a learner knows, understands, or can do after completing a small learning activity.
 
-In this course, the focus is:
+In this project, a micro-credential means:
 
-> AI-supported teaching workflow creation in TVET.
-
-### Key Features
-
-- Clear learning outcomes
-- Small learning volume
-- Practical tasks
-- Evidence-based assessment
-- Online and offline delivery
-- Certificate or badge template
-- Quality assurance checklist
+> A short, focused, and assessed learning experience that records what a learner knows, understands, or can do in AI-supported teaching workflow creation.
 
 ---
 
-## Module 1: Introduction to Micro-Credentials
+## Important Features of a Micro-Credential
 
-### Aim
+A good micro-credential should include:
 
-This module introduces the concept of micro-credentials and explains their importance in modern education, lifelong learning, and TVET.
-
-### Topics
-
-- What is a micro-credential?
-- Why are micro-credentials useful?
-- Micro-credentials in TVET
-- AI-supported teaching workflows
-
-### Task
-
-Write a short reflection of 150–200 words:
-
-**Why are micro-credentials useful for AI-supported teaching and learning in TVET?**
-
-### Evidence
-
-Submit one of the following:
-
-- Markdown file
-- Word or PDF document
-- Screenshot from VS Code
-- GitHub link
+- Clear title
+- Target group
+- Learning outcomes
+- Estimated workload
+- Assessment type
+- Evidence of learning
+- Quality assurance
+- Certificate or badge
+- Online/offline access
+- Possibility to share or transfer the evidence
 
 ---
 
-## Module 1 Quiz
+## Quick Check 1
 
 What is the main purpose of a micro-credential?
 
-[[ ]] To replace all university degrees
-[[X]] To recognise focused learning achievement
-[[ ]] To remove assessment from learning
-[[ ]] To avoid using learning outcomes
+[[ ]] To replace all university degrees  
+[[X]] To recognise focused learning achievement  
+[[ ]] To remove assessment from learning  
+[[ ]] To avoid learning outcomes  
 
 ---
 
-## Module 2: GitHub and VS Code Setup
+## Reflection Activity 1
 
-### Aim
+Think about your own learning or teaching context.
 
-This module helps learners set up a simple GitHub and VS Code workflow for creating educational content.
+Answer this question:
 
-### Topics
+> How can micro-credentials support flexible learning in TVET?
 
-- Creating a GitHub repository
-- Opening a project in VS Code
-- Editing Markdown files
-- Saving files
-- Preparing files for GitHub upload
+Write 3–5 sentences in your notes or in a Markdown file.
 
-### Task
+---
 
-Create or update:
+# Phase 2: GitHub and VS Code Setup
 
-1. `README.md`
-2. `docs/course-overview.md`
-3. `docs/learning-outcomes.md`
-4. `materials/module-01-introduction-to-microcredentials.md`
+--{{0}}--
+In this phase, you prepare your technical workspace. GitHub will store and share your project. VS Code will help you create and edit your files.
+
+## Required Tools
+
+You need:
+
+- GitHub account
+- VS Code
+- Git installed on your computer
+- Internet connection for GitHub upload
+- Project folder on your computer
+
+---
+
+## Recommended Project Folder
+
+Your project should follow this structure:
+
+- assets/
+- checklists/
+- data/
+- docs/
+- examples/
+- materials/
+- Outputs/
+- skeletons/
+- tasks/
+- templates/
+- README.md
+
+---
+
+## Task 1: Create a GitHub Repository
+
+Create a repository with this name:
+
+**AI-in-TVET-Microcredential**
+
+Add a short description:
+
+> AI-supported microcredential project for online and offline teaching workflow creation in TVET.
 
 ### Evidence
 
 Submit:
 
-- Screenshot of VS Code project folder
 - GitHub repository link
-- Screenshot of README file
+- Screenshot of repository page
 
 ---
 
-## Module 2 Quiz
+## Quick Check 2
 
-Which tool is mainly used to edit project files in this course?
+Which tool is used mainly for editing Markdown files?
 
-[[ ]] GitHub Pages
-[[X]] VS Code
-[[ ]] YouTube
-[[ ]] Zoom
+[[ ]] GitHub Pages  
+[[X]] VS Code  
+[[ ]] Google Maps  
+[[ ]] Zoom  
 
 ---
 
-## Module 3: BMAD Method for Course Design
+# Phase 3: BMAD Method for Course Design
 
-### Aim
+--{{0}}--
+The BMAD Method helps you design the course in a clear workflow. It guides you from idea to final output.
 
-This module introduces the BMAD Method as a structured workflow for planning and creating educational content.
+## BMAD Meaning
 
-### BMAD Meaning
+| Letter | Meaning | Purpose |
+|---|---|---|
+| B | Build | Define the idea |
+| M | Manage | Organize the content |
+| A | Assess | Check learning achievement |
+| D | Deliver | Share the final output |
 
-| Step | Meaning |
+---
+
+## Build the Idea
+
+In this step, you define:
+
+- Topic
+- Target group
+- Main aim
+- Learning need
+- Expected final output
+
+Example:
+
+| Item | Example |
 |---|---|
-| B | Build the idea |
-| M | Manage the content |
-| A | Assess the learning |
-| D | Deliver the output |
+| Topic | AI-supported lesson planning |
+| Target group | TVET teachers and students |
+| Aim | Create one AI-supported learning activity |
+| Output | Markdown lesson activity |
 
-### Task
+---
+
+## Manage the Content
+
+Organize your learning material into sections:
+
+- Overview
+- Aim
+- Learning outcomes
+- Key concepts
+- Learning activity
+- Task
+- Evidence
+- Assessment criteria
+- Checklist
+
+---
+
+## Assess the Learning
+
+Assessment should be connected to learning outcomes.
+
+Examples of evidence:
+
+- GitHub repository link
+- Markdown file
+- Screenshot
+- AI prompt
+- Improved learning activity
+- Reflection
+- Final project folder
+
+---
+
+## Deliver the Output
+
+Your final output can be delivered:
+
+- Online through GitHub
+- Online through LiaScript
+- Offline through ZIP package
+- Offline through local Markdown files
+
+---
+
+## Task 2: Create a BMAD Plan
 
 Create a short BMAD plan with:
 
@@ -184,44 +322,64 @@ Create a short BMAD plan with:
 4. Three learning outcomes
 5. Learning activity
 6. Assessment task
-7. Evidence to submit
-8. Online/offline delivery format
+7. Evidence
+8. Online/offline delivery plan
 
 ---
 
-## Module 3 Quiz
+## Quick Check 3
 
-What does the letter **A** mean in the BMAD workflow used in this project?
+What does **A** mean in the BMAD Method?
 
-[[ ]] Archive the project
-[[ ]] Add more folders
-[[X]] Assess the learning
-[[ ]] Avoid assessment
+[[ ]] Archive  
+[[ ]] Animate  
+[[X]] Assess  
+[[ ]] Avoid  
 
 ---
 
-## Module 4: AI-Supported Content Generation
+# Phase 4: AI-Supported Content Generation
 
-### Aim
+--{{0}}--
+AI can help you create first drafts of learning materials, but you must always review and improve the content yourself.
 
-This module explains how AI tools can support the creation of teaching materials.
+## What AI Can Support
 
-### AI Can Help With
+AI can help create:
 
-- Lesson planning
+- Module outlines
 - Learning outcomes
-- Activities
+- Lesson activities
 - Quiz questions
 - Assessment rubrics
-- Explanations
-- Examples
+- Reflection questions
+- Summaries
 - Feedback text
 
-### Important Rule
+---
 
-AI-generated content must always be reviewed, corrected, and improved by humans.
+## Responsible AI Use
 
-### Task
+AI-generated content should be checked for:
+
+- Accuracy
+- Relevance
+- Clarity
+- Language level
+- Bias
+- Missing information
+- Suitability for learners
+- Connection with learning outcomes
+
+---
+
+## Example AI Prompt
+
+Create a beginner-level learning activity for TVET students about using GitHub for storing teaching materials. Include aim, learning outcomes, activity steps, task, evidence, and assessment criteria.
+
+---
+
+## Task 3: Create an AI-Supported Activity
 
 Create one AI-supported learning activity.
 
@@ -234,102 +392,163 @@ Submit:
 
 ---
 
-## Module 4 Quiz
+## Quick Check 4
 
 Why should AI-generated content be reviewed?
 
-[[ ]] Because AI is always correct
-[[ ]] Because AI should replace teachers
-[[X]] Because AI output may contain errors or unclear content
-[[ ]] Because Markdown cannot be edited
+[[ ]] Because AI is always correct  
+[[ ]] Because AI should replace teachers  
+[[X]] Because AI can make mistakes or unclear content  
+[[ ]] Because Markdown files cannot be edited  
 
 ---
 
-## Module 5: Online and Offline Course Package
+# Phase 5: Online and Offline Course Package
 
-### Aim
+--{{0}}--
+A strong micro-credential should be usable online and offline. This helps learners who have different access conditions.
 
-This module explains how to prepare course materials for online and offline use.
+## Online Version
 
-### Online Version
-
-The course can be shared through:
+The online version can use:
 
 - GitHub repository
 - GitHub Pages
 - LiaScript course link
+- Online documentation
 
-### Offline Version
+## Offline Version
 
-The course can be shared through:
+The offline version can use:
 
 - Downloaded project folder
-- ZIP package
-- Local Markdown files
+- ZIP file
+- Markdown files
 - Local media files
-
-### Task
-
-Create an online/offline teaching package with:
-
-1. Course overview
-2. Learning outcomes
-3. At least two modules
-4. At least two tasks
-5. Assessment strategy
-6. Certificate or badge template
+- PDF exports if needed
 
 ---
 
-## Module 5 Quiz
+## Online/Offline Comparison
 
-Which option is best for offline use?
-
-[[ ]] Only a web link
-[[ ]] Only GitHub Pages
-[[X]] A downloaded project folder or ZIP package
-[[ ]] A deleted repository
+| Feature | Online | Offline |
+|---|---|---|
+| Access | Internet needed | No internet needed |
+| Sharing | Link | ZIP or USB |
+| Updating | Easy to update | Needs new copy |
+| Best tool | GitHub / LiaScript | Local folder |
+| Evidence | Link and screenshots | Folder and screenshots |
 
 ---
 
-## Module 6: Final Project
+## Task 4: Prepare Online/Offline Package
 
-### Aim
-
-This module guides learners to complete the final AI-in-TVET Microcredential project.
-
-### Final Project Requirement
-
-Create a complete AI-supported online/offline teaching workflow package.
-
-The project should include:
+Your package should include:
 
 - README.md
 - Course overview
 - Learning outcomes
-- Micro-credential definition
-- EU standard elements
 - Assessment strategy
-- Learning modules
-- Tasks
-- Templates
-- Checklists
-- Online/offline delivery explanation
+- At least two modules
+- At least two tasks
+- Certificate or badge template
+- Quality checklist
 
 ---
 
-## Final Reflection
+## Quick Check 5
 
-Write a final reflection of 200–300 words.
+Which option is best for offline use?
 
-Answer these questions:
+[[ ]] Only a web link  
+[[ ]] Only GitHub Pages  
+[[X]] Downloaded project folder or ZIP package  
+[[ ]] Deleted repository  
 
-1. What did you create?
-2. How did you use the BMAD Method?
-3. How did AI support your work?
-4. What did you improve manually?
-5. How can this project support TVET learning?
-6. How can the project be used online and offline?
+---
+
+# Phase 6: LiaScript Course Page
+
+--{{0}}--
+LiaScript transforms a Markdown file into an interactive online course. This makes your micro-credential easier to present and share.
+
+## What LiaScript Adds
+
+LiaScript can support:
+
+- Slides
+- Quizzes
+- Narration
+- Interactive tasks
+- Tables
+- Checklists
+- Course navigation
+- Online learning delivery
+
+---
+
+## Your LiaScript File
+
+Your LiaScript file is:
+
+**docs/liascript-course.md**
+
+Your online course link is:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/Masub27/AI-in-TVET-Microcredential/main/docs/liascript-course.md#1
+
+---
+
+## LiaScript Link Structure
+
+A LiaScript course link follows this structure:
+
+https://liascript.github.io/course/?RAW-GITHUB-MARKDOWN-FILE-LINK#1
+
+For this project:
+
+RAW GitHub Markdown file:
+
+https://raw.githubusercontent.com/Masub27/AI-in-TVET-Microcredential/main/docs/liascript-course.md
+
+LiaScript course link:
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/Masub27/AI-in-TVET-Microcredential/main/docs/liascript-course.md#1
+
+---
+
+## Task 5: Test the LiaScript Course
+
+Open the LiaScript course link and check:
+
+- Does the course open?
+- Are the sections visible?
+- Do quizzes work?
+- Is the structure clear?
+- Can learners follow the course step by step?
+
+---
+
+# Phase 7: Final Project Submission
+
+--{{0}}--
+The final project is the main evidence for completing this micro-credential.
+
+## Final Project Must Include
+
+- README.md
+- docs/course-overview.md
+- docs/learning-outcomes.md
+- docs/microcredential-definition.md
+- docs/eu-standard-elements.md
+- docs/assessment-strategy.md
+- materials/
+- tasks/
+- templates/
+- checklists/
+- examples/
+- skeletons/
+- Outputs/
 
 ---
 
@@ -351,42 +570,59 @@ Passing requirement:
 
 ---
 
-## Completion Checklist
+## Final Reflection
 
-Before submitting the final project, check:
+Write 200–300 words.
 
+Answer:
+
+1. What did you create?
+2. How did you use the BMAD Method?
+3. How did AI support your content creation?
+4. What did you improve manually?
+5. How can this project support TVET learning?
+6. How can the project be used online and offline?
+7. What did you learn?
+
+---
+
+## Final Submission Checklist
+
+- [ ] GitHub repository is ready.
 - [ ] README.md is complete.
 - [ ] Documentation files are complete.
-- [ ] Six module files are complete.
+- [ ] Module files are complete.
 - [ ] Task files are complete.
 - [ ] Templates are complete.
 - [ ] Checklists are complete.
+- [ ] Examples are included.
+- [ ] Skeletons are included.
+- [ ] LiaScript course opens online.
+- [ ] Offline package can be created.
 - [ ] Final reflection is written.
-- [ ] GitHub repository is ready.
-- [ ] Offline package is ready if required.
-- [ ] All files are saved.
 
 ---
 
-## Final Output
+## Course Summary
 
-The final output is a complete AI-supported online/offline teaching workflow package for TVET.
+In this micro-credential, you learned how to:
 
-It can be used:
-
-- Online through GitHub and LiaScript
-- Offline through a downloaded folder or ZIP package
+- Understand micro-credentials
+- Create a GitHub and VS Code workflow
+- Apply the BMAD Method
+- Use AI support responsibly
+- Create online and offline learning materials
+- Build a LiaScript course page
+- Prepare final project evidence
 
 ---
 
-## Course End
+## End of Course
 
-You have completed the AI-in-TVET Microcredential course structure.
+--{{0}}--
+You have reached the end of the AI-in-TVET Microcredential course. The next step is to complete your final project, test your online LiaScript link, and prepare your submission evidence.
 
-The next step is to submit:
+**Final online course link:**
 
-- GitHub repository link
-- Screenshots
-- Final reflection
-- Completed checklist
-- Offline package if required
+https://liascript.github.io/course/?https://raw.githubusercontent.com/Masub27/AI-in-TVET-Microcredential/main/docs/liascript-course.md#1
+
